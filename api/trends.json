@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T20:53:24.522877+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-06-25T21:16:30.972399+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 20时53分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 21时16分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉发生的两次重大地震造成了惨重的死亡人数。",
@@ -61,6 +61,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "美国白宫：特朗普将于7月3日出席在拉什莫尔山的活动。",
+          "url": "https://wallstreetcn.com/livenews/3124705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 21时16分]"
         },
         {
           "title": "美国总统特朗普：（关于委内瑞拉）初步报告不容乐观。",
@@ -130,6 +154,19 @@
           "time_info": "12时10分"
         },
         {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 21时16分]"
+        },
+        {
           "title": "拒签住房法案后 美国众议院议长将与特朗普会面",
           "url": "https://flash.jin10.com/detail/20260625033150450800",
           "source": "金十数据",
@@ -175,19 +212,6 @@
           "time_info": "[16时27分 ~ 19时45分]"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 20时53分]"
-        },
-        {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
           "url": "https://flash.jin10.com/detail/20260625050017014800",
           "source": "金十数据",
@@ -198,19 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 07时12分]"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 20时53分]"
         },
         {
           "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
@@ -502,7 +513,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -524,8 +535,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 21时16分]"
         },
         {
           "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
@@ -583,6 +594,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 20时53分]"
+        },
+        {
+          "title": "世界杯生死战前伊朗队被迫滞留机场",
+          "url": "https://www.toutiao.com/trending/7655006558115512326/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 21时16分]"
         },
         {
           "title": "美国参战飞行员：伊朗无人机摆出“水母阵型”，像外星科技",
@@ -651,6 +674,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "伊朗外长表示，意大利方面不认同北约秘书长有关美国使用军事基地的相关言论。",
+          "url": "https://flash.jin10.com/detail/20260625205822036800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗外交部发言人：美国就谅解备忘录发表自相矛盾的声明，无助于减少伊朗民众的不信任感。",
           "url": "https://flash.jin10.com/detail/20260625031505152800",
           "source": "金十数据",
@@ -695,6 +729,17 @@
           "time_info": "19时45分"
         },
         {
+          "title": "市场消息：伊朗外长与意大利外长进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260625205618973800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "鲁比奥重申，伊朗不能对霍尔木兹过境收取费用",
           "url": "https://flash.jin10.com/detail/20260625001726784800",
           "source": "金十数据",
@@ -704,17 +749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "世界杯生死战前伊朗队被迫滞留机场",
-          "url": "https://www.toutiao.com/trending/7655006558115512326/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         },
         {
           "title": "海峡石油流量回升仍较脆弱，伊朗管制执念催生更多不确定性",
@@ -811,7 +845,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -852,7 +886,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -915,6 +949,17 @@
           "time_info": "[01时10分 ~ 12时10分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3124699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260625003422569800",
           "source": "金十数据",
@@ -944,7 +989,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -958,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "经济数据提振，美股盘前止跌反弹、存储板块走高，美光绩后大涨17%，黄金跌破4000，白银再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "携程(TCOM.O)美股盘前下跌13.5%，因其第一季度业绩不佳。",
@@ -1073,8 +1129,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "据The Information：谷歌(GOOG.O)计划重组人工智能编程“突击队”，旨在追赶Anthropic的步伐。",
+          "url": "https://flash.jin10.com/detail/20260625210533271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "谷歌正对新的AI编码工具“突击队”进行重组",
+          "url": "https://wallstreetcn.com/livenews/3124704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
         {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
           "url": "https://www.zhihu.com/question/2053015352347293676",
@@ -1083,8 +1161,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时53分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 21时16分]"
         },
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -1158,8 +1236,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 21时16分]"
         },
         {
           "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
@@ -1170,8 +1248,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时53分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 21时16分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -1252,7 +1330,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1266,6 +1344,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
+          "url": "https://wallstreetcn.com/livenews/3124210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美元指数DXY短线走低十余点，最新报101.64。",
+          "url": "https://flash.jin10.com/detail/20260625203205814800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "美元指数短线走低，美国国债、现货黄金上涨 通胀数据温和降低了加息预期",
+          "url": "https://wallstreetcn.com/livenews/3124689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
@@ -1298,30 +1415,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
-          "url": "https://wallstreetcn.com/livenews/3124210",
-          "source": "华尔街见闻-快讯",
+          "title": "屎山BUG半决赛之DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%8E%E5%B1%B1BUG%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B9%8BDeepSeek",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "美元指数DXY短线走低十余点，最新报101.64。",
-          "url": "https://flash.jin10.com/detail/20260625203205814800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "21时16分"
         }
       ]
     }
