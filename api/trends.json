@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-16T02:50:43.918827+08:00",
-  "total_titles_processed": 395,
-  "failed_sources": [],
+  "generated_at": "2026-07-16T04:01:13.351825+08:00",
+  "total_titles_processed": 464,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
